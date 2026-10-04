@@ -41,7 +41,7 @@ void loop() {
 <img width="1165" height="912" alt="Screenshot 2026-10-03 002604" src="https://github.com/user-attachments/assets/1e1bb457-7e67-428a-9977-2f3f4c25ae2a" />
 
 **Integration Map**
-[2FSVQM1MeHS.pdf](https://github.com/user-attachments/files/33003822/2FSVQM1MeHS.pdf)
+<img width="1536" height="2048" alt="5a347b7a-031e-4052-916f-71e778716e73" src="https://github.com/user-attachments/assets/efcaee18-a0ab-4c45-91df-d19b138df076" />
 
 **Components**
 Name,Quantity,Component
