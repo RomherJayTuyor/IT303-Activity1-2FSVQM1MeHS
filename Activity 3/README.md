@@ -1,0 +1,6 @@
+IT303 LAB - Activity 3
+NAME: Romher Jay Tuyor
+GRADE AND SECTION: BSIT 3-B
+
+**Tinckercard Link:**
+https://www.tinkercad.com/things/4B9bnQ46vz7-it-303lab-activity-3/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard
